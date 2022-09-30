@@ -600,7 +600,7 @@
 }
 
  {
-  "id" : "50",
+  "id" : "51",
 
 "companyName " : "Back2Study",
 
@@ -610,5 +610,15 @@
    
 "contactEmail " : "https://www.back2study.co.in"
   }
+
+{
+  "id : "52,
+  
+  "position" : "Full Stack Developer", 
+  
+  "requirements" : "Graduated Completed",
+  
+  "contactEmail" : "abc123@gmail.com"
+}
   ]
 
